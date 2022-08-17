@@ -1,0 +1,33 @@
+"CODE","NAME","DESCRIPTION"
+CA,Cable ships,Cable ships
+CG,Coastguard,"Coastguard cutters, patrol ships and launches"
+CS,Container ships,"Container ships, including open and closed container ships and refrigerated container ships"
+DR,Dredgers,"Dredgers including bucket, hopper, grab and suction dredgers"
+FE,Passenger ferries,Passenger ferries (carrying passengers only)
+FP,Floating Production,Floating Production and Storage Units
+FV,Fishing Vessels,"Fishing Vessels including purse seiners, long liners etc., but excluding trawlers"
+GC,General Cargo,General Cargo ships with one or more holds
+GT,Gas Tankers,Liquefied gas carriers/tankers including LNG and LPG carriers
+IC,Icebreaking vessels,Icebreaking vessels (dedicated vessel)
+LC,Livestock Carrier,Livestock Carrier (dedicated ship for the carriage of livestock)
+LT,Liquid Tankers,"Liquid tankers including oil product tankers, chemical tankers and crude oil tankers (including VLCC’s and ULCC’s)"
+LV,Light vessels,Light vessels
+MI,Mobile installations,"Mobile installations, including mobile offshore drill ships, jack-up rigs, semi-submersibles"
+MS,Military ships,Military ships
+OW,Ocean Weather Ships,Ocean Weather Ships (dedicated weather ship)
+PI,Pipe Layers,Pipe Layers
+PS,Passenger Ships,Passenger ships and Cruise liners
+RF,Ro Ro ferries,Ro Ro ferries (carrying passengers and laden vehicles)
+RR,Ro Ro cargo ships,"Ro Ro cargo ships for carriage of road and/or rail vehicles and cargo, including containerised cargo"
+RS,Refrigerated cargo ships,Refrigerated cargo ships including banana ships
+RV,Research Vessels,"Research Vessels, including oceanographic, meteorological and hydrographic research ships and seismographic research ships"
+SA,Sailing Vessels,"Large sailing vessels, including sail training vessels"
+SV,Support vessels,"Support vessels including offshore support vessels, offshore supply vessels, stand-by vessels, pipe carriers, anchor handling vessels, buoy tenders (including coastguard vessels engaged solely on buoy tending duties), diving support vessels, etc"
+TR,Trawler fishing vessels,Trawler fishing vessels
+TU,Tugs,"Tugs, including fire-fighting tugs, salvage tugs, pusher tugs, pilot vessels, tenders etc"
+VC,Vehicle Carriers,Vehicle Carriers: dedicated multi deck ships for the carriage of new unladen road vehicles
+YA,Yachts and pleasure craft,Yachts and pleasure craft
+OT,Other,Other
+BC,Bulk Carriers,"Bulk Carriers, including Ore/Bulk/Oil (OBO) carriers and Ore/Oil carriers"
+BA,Barges,"Barges, including crane barges and tank barges"
+??,Unknown,"Unknown, should not be used"
