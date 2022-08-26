@@ -1,0 +1,23 @@
+"REF","DESCRIPTION"
+ASPIRATED,Aspirated (Assmann type)
+BAIT_TANK_THERMOMETER,Bait tank thermometer
+BUCKET_THERMOMETER,Bucket thermometer
+CABINET,Cabinet
+CONDENSOR_INTAKE,Condensor intake or engine room intake
+HANDHELD,Handheld digital temperature/humidity sensor
+HULL_CONTACT,Hull contact sensor
+NOT_PRESSURISED,Not pressurised (vented to the outside).
+OTHER,Other 
+OUTSIDE,"Outside, no protection"
+PRESSURISED,Pressurised (closed and not vented to the outside).
+RADIATION_SHIELD,Radiation shield
+RADIATION_THERMOMETER,Radiation thermometer
+SCREEN_NON_VENTILATED,"Screen (non ventilated, i.e. natural ventilation)"
+SCREEN_VENTILATED,"Screen (ventilated, i.e. assisted ventilation)"
+SHIPS_SCREEN,Ship's screen (property of the ship)
+SHIPS_SLING,Ship's sling (property of the ship)
+SLING,Sling
+THROUGH_HULL,Through hull sensor
+TRAILING_THERMISTOR,Trailing thermistor
+UNSCREENED,Unscreened
+WHIRLING_PSYCHROMETER,Whirling or sling psychrometer
