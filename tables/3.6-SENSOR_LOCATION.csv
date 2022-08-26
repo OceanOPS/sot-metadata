@@ -17,7 +17,7 @@ MAIN_DECK,Main deck
 MAIN_DECK_BOTH_SIDES,Main deck both sides
 CHART_ROOM,Chart room
 WHEELHOUSE_PRESSURISED,Pressurised wheelhouse (closed and not vented to the outside)
-WHEELHOUSE_NOT_PRESSURISED,Wheelhouse, not pressurised (vented to the outside)
+WHEELHOUSE_NOT_PRESSURISED,Wheelhouse not pressurised (vented to the outside)
 OTHER,Other
 MUNTISENSOR_OUTSIDE,Multisensor outside
 RADAR_DECK,Radardeck
