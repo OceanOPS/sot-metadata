@@ -1,28 +1,28 @@
-"REF";"DESCRIPTION"
-NOT_FITTED;Not fitted
-MAINMAST;Mainmast
-AFT_MAST;Aft mast
-FOREMAST;Foremast
-METEOROLOGICAL_MAST;Meteorological mast
-MAST_ON_WHEELHOUSE_TOP;Mast on wheelhouse top
-HANDHELD;Handheld
-BRIDGE_WING;Bridge wing
-BRIDGE_WING_BOTH_SIDES;Bridge wing both sides
-BRIDGE_WING_WINDWARD_SIDE;Bridge wing windward side
-WHEELHOUSE_TOP;Wheelhouse top
-WHEELHOUSE_TOP_BOTH;Wheelhouse top both
-WHEELHOUSE_TOP_CENTER;Wheelhouse top center
-WHEELHOUSE_TOP_WINDWARD_SIDE;Wheelhouse top windward side
-MAIN_DECK;Main deck
-MAIN_DECK_BOTH_SIDES;Main deck both sides
-CHART_ROOM;Chart room
-WHEELHOUSE_PRESSURISED;Pressurised wheelhouse (closed and not vented to the outside)
-WHEELHOUSE_NOT_PRESSURISED;Wheelhouse, not pressurised (vented to the outside)
-OTHER;Other
-MUNTISENSOR_OUTSIDE;Multisensor outside
-RADAR_DECK;Radardeck
-MONKEY_ISLAND;Monkey Island
-MAST_MONKEY_ISLAND;Mast on Monkey Island
-TECHNICAL_ROOM;Technical room
-ENGINE_ROOM;Engine Room
-WHEELHOUSE;Wheelhouse
+"REF","DESCRIPTION"
+NOT_FITTED,Not fitted
+MAINMAST,Mainmast
+AFT_MAST,Aft mast
+FOREMAST,Foremast
+METEOROLOGICAL_MAST,Meteorological mast
+MAST_ON_WHEELHOUSE_TOP,Mast on wheelhouse top
+HANDHELD,Handheld
+BRIDGE_WING,Bridge wing
+BRIDGE_WING_BOTH_SIDES,Bridge wing both sides
+BRIDGE_WING_WINDWARD_SIDE,Bridge wing windward side
+WHEELHOUSE_TOP,Wheelhouse top
+WHEELHOUSE_TOP_BOTH,Wheelhouse top both
+WHEELHOUSE_TOP_CENTER,Wheelhouse top center
+WHEELHOUSE_TOP_WINDWARD_SIDE,Wheelhouse top windward side
+MAIN_DECK,Main deck
+MAIN_DECK_BOTH_SIDES,Main deck both sides
+CHART_ROOM,Chart room
+WHEELHOUSE_PRESSURISED,Pressurised wheelhouse (closed and not vented to the outside)
+WHEELHOUSE_NOT_PRESSURISED,"Wheelhouse, not pressurised (vented to the outside)"
+OTHER,Other
+MUNTISENSOR_OUTSIDE,Multisensor outside
+RADAR_DECK,Radardeck
+MONKEY_ISLAND,Monkey Island
+MAST_MONKEY_ISLAND,Mast on Monkey Island
+TECHNICAL_ROOM,Technical room
+ENGINE_ROOM,Engine Room
+WHEELHOUSE,Wheelhouse
