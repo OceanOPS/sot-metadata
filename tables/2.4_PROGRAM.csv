@@ -63,7 +63,7 @@ VOS-PT,,"VOS Portugal",Portugal
 VOS-RU,VOS-RU,"Russian Voluntary Observing Ships program",Russian Federation
 VOS-SE,VOS-SE,"",Sweden
 VOS-SG,VOS-SG,"VOS Singapore ",Singapore
-VOS-SHIP-MASK,VOS-SHIP-MASK,"Program created for platforms transmitting under "SHIP" GTS identifier",Unknown
+VOS-SHIP-MASK,VOS-SHIP-MASK,"Program created for platforms transmitting under 'SHIP' GTS identifier",Unknown
 VOS-SRoCS,,""Science RoCS envisions a future where scientific data collection on commercial ships is
 the new industry standard, providing regular and repeat measurements across oceans, including
 remote regions, on scales not otherwise accessible to the scientific community and society at large."",United States
