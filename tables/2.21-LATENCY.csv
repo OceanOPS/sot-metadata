@@ -1,9 +1,9 @@
-"NAME","NAME_SHORT","MINUTES"
-Near real-Time (< 20min),NRT,20
-Less than 1 h,L1H,60
-Less than 24 h/one day,L1D,1440
-Less than 1 week,L1W,10080
-Less than 1 month,L1M,302400
-More than 1 month,M1M,
-Delayed mode only,DMO,
-Irregular,IRR,
+"CODE","DESCRIPTION"
+NRT,Near real-Time (< 20min)
+L1H,Less than 1 h
+L1D,Less than 24 h/one day
+L1W,Less than 1 week
+L1M,Less than 1 month
+M1M,More than 1 month
+DMO,Delayed mode only
+IRR,Irregular
