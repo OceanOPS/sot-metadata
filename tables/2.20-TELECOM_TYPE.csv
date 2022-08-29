@@ -3,7 +3,7 @@ AIS,Automated Identification System (direct or through satellite)
 ARGOS,Argos system
 ARGOS3,Argos-3 Two Way communications 
 BEIDOU,
-CELLULAR,communication using terrestrial wireless networks (GSM, GPRS)
+CELLULAR,"communication using terrestrial wireless networks (GSM, GPRS)"
 FREEWAVE,FreeWave
 GLOBALSTAR,Globalstar communication system
 GMS,GMS (DCP). Data Collecting Platform of Geostationary Meteorological Satellites
