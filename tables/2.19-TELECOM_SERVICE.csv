@@ -1,0 +1,19 @@
+"NAME","DESCRIPTION"
+AIS,Automated Identification System
+CELLULAR_DIAL_UP,Dial Up 
+CELLULAR_SMS,SMS
+CODE41,Inmarsat Code41
+DATA_MODE,Data Mode
+DCP,DCP
+EMAIL,Email
+INMARSAT_OTHER,Inmarsat other special access code
+IRIDIUM_DIAL_UP,Iridium Dial Up
+IRIDIUM_RUDICS,Iridium Rudics
+IRIDIUM_SBD,Iridium SBD
+NONE,Delayed mode only
+OTHER,Other
+TURBOWIN,TurboWin Obs2Server
+UNKNOWN,Unknown
+VOICE,Voice
+VSAT_DIAL_UP,VSAT  Dial Up
+WWW,Web connection
