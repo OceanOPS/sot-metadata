@@ -1,0 +1,74 @@
+"NAME","NAME_SHORT',"DESCRIPTION","COUNTRY"
+ASAP-AWI,AASAP-AWI,,Germany
+ASAP-JP,ASAP-JP,Japanese ASAP program,Japan
+ASAP-KR,ASAP-KR,,Korea (Republic Of)
+ASAP-MPI,ASAP-MPI,ASAP on German RV Sonne,Germany
+ASAP-US,ASAP-US,US ASAP program,United States
+ASAP-ZA,ASAP-ZA,South African ASAP program,South Africa
+E-ASAP,E-ASAP,EUMETNET ASAP program,EUMETNET
+SOOP-AOML-TSG,,AOML managed TSG systems,United States
+SOOP-AOML-XBT,SOOP-AOML-XBT,,United States
+SOOP-BER,,with SBU, URI, AOML,Bermuda
+SOOP-BOM-XBT,SOOP-BOM-XBT,,Australia
+SOOP-BRA-XBT,SOOP-BRA-XBT,,Brazil
+SOOP-CAN,SOOP-CAN,,Canada
+SOOP-CL,,,Chile
+SOOP-CSIRO-XBT,SOOP-CSIRO-XBT,,Australia
+SOOP-FRA,SOOP-FRA,,France
+SOOP-FVP-BDC,SOOP-FVP-BDC,SOOP-FVP-Beering Data Collective. Collaborative data collection as a service,Sweden
+SOOP-FVP-Catching Data,Catching Data,Catching Data it the fishing vessel observation program developed by the Fishing Vessel Industry in Netherland,Netherlands
+SOOP-FVP-RECOPESCA,RECOPESCA,Réseau de mesure de l’activité de pêche spatialisé (effort et captures) et de données environnementales à usage scientifique.,France
+SOOP-FVP-Vistools,Vistools,ILVO fishing Vessel Observation Activities,Belgium
+SOOP-IFREMER-TSG,SOOP-IFREMER-TSG,,France
+SOOP-IRD-TSG,SOOP-IRD-TSG,,France
+SOOP-IRD-XBT,SOOP-IRD-XBT,,France
+SOOP-ITA,SOOP-ITA,,Italy
+SOOP-JPN-XBT,SOOP-JPN-XBT,Japanese XBT program; former XBT drops on PX45/46 now mostly performed as CTD casts from RVs,Japan
+SOOP-NMFS,SOOP-NMFS,,United States
+SOOP-SBU,,Stony Brook University, in partnership with URI and AOML,United States
+SOOP-SIO-XBT,SOOP-SIO-XBT,,United States
+SOOP-URI,SOOP-URI,,United States
+SOOP-WHOI,SOOP-WHOI,,United States
+SOOP-ZA,SOOP-ZA,,South Africa
+VOS-AR,VOS-AR,Argentina's contribution to the Voluntary Observing Ships (VOS) program,Argentina
+VOS-AU,VOS-AU,Australian contribution to the Voluntary Observing Ships (VOS) program,Australia
+VOS-CA,VOS-CA,Canadian VOS program,Canada
+VOS-CL,VOS-CL,,Chile
+VOS-CN,VOS-CN,,China
+VOS-CO,VOS-CO,Colombian contribution to the Voluntary Observing Ships (VOS) program,Colombia
+VOS-DE,VOS-DE,German contribution to the Voluntary Observing Ships (VOS) program,Germany
+VOS-DK,VOS-DK,Danish VOS program,Denmark
+VOS-EC,VOS-EC,Ecuadorian VOS program,Ecuador
+VOS-EN,VOS-EN,Outphasing EUMETNET VOS program; most stations are now again under national programs, remaining stations will disappear shortly.,EUMETNET
+VOS-ES,VOS-ES,Spain contribution to the Voluntary Observing Ships (VOS) program,Spain
+VOS-FR,VOS-FR,French contribution to the Voluntary Observing Ships (VOS) program,France
+VOS-GB,VOS-GB,United Kingdom contribution to the Voluntary Observing Ships (VOS) program,United Kingdom
+VOS-GR,VOS-GR,,Greece
+VOS-HK,VOS-HK,Hong-Kong VOS program,China
+VOS-HR,VOS-HR,Croatian contribution to the Voluntary Observing Ships (VOS) program,Croatia (Local Name: Hrvatska)
+VOS-IE,VOS-IE,,Ireland
+VOS-IL,VOS-IL,,Israel
+VOS-IN,VOS-IN,,India
+VOS-IR,VOS-IR,Islamic Republic of Iran contribution to the Voluntary Observing Ships program,Iran (Islamic Republic Of)
+VOS-IS,VOS-IS,,Iceland
+VOS-JP,VOS-JP,Japanese VOS program,Japan
+VOS-KR,VOS-KR,,Korea (Republic Of)
+VOS-MAERSK,,Program for VOS data gathered by Maersk-owned systems, pushed ship to shore into the cloud and processed by DWD as third party contribution. Many of the involved ships also host VOS stations operated by a NMHS. VOS chairperson involved as operations manager.,United Nations
+VOS-MY,VOS-MY,,Malaysia
+VOS-NL,VOS-NL,Netherlands VOS program,Netherlands
+VOS-NO,VOS-NO,,Norway
+VOS-NZ,VOS-NZ,New Zealand Voluntary Observing Ships program,New Zealand
+VOS-PL,VOS-PL,Polish VOS program,Poland
+VOS-PT,,VOS Portugal,Portugal
+VOS-RU,VOS-RU,Russian Voluntary Observing Ships program,Russian Federation
+VOS-SE,VOS-SE,,Sweden
+VOS-SG,VOS-SG,VOS Singapore ,Singapore
+VOS-SHIP-MASK,VOS-SHIP-MASK,Program created for platforms transmitting under "SHIP" GTS identifier,Unknown
+VOS-SRoCS,,"Science RoCS envisions a future where scientific data collection on commercial ships is
+the new industry standard, providing regular and repeat measurements across oceans, including
+remote regions, on scales not otherwise accessible to the scientific community and society at large.",United States
+VOS-TH,VOS-TH,Thai VOS program,Thailand
+VOS-TMP,VOS-TMP,Temporary VOS program, for test purposes and unknown stations,Unknown
+VOS-US,VOS-US,The United States VOS Program services about one quarter of the world's VOS fleet, providing ships' crews with weather observer training, handbooks and forms, observation encoding software, barometer calibration, the Mariners Weather Log, and weather observing tools. Located in the major ports around the country, Port Meteorological Officers are the VOS Program's field representatives and primary points of contact for ships.,United States
+VOS-ZA,VOS-ZA,South African VOS program,South Africa
+VOS-3P,VOS-3P,,Unknown
