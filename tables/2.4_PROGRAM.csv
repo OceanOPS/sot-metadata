@@ -64,9 +64,7 @@ VOS-RU,VOS-RU,"Russian Voluntary Observing Ships program",Russian Federation
 VOS-SE,VOS-SE,"",Sweden
 VOS-SG,VOS-SG,"VOS Singapore ",Singapore
 VOS-SHIP-MASK,VOS-SHIP-MASK,"Program created for platforms transmitting under 'SHIP' GTS identifier",Unknown
-VOS-SRoCS,,""Science RoCS envisions a future where scientific data collection on commercial ships is
-the new industry standard, providing regular and repeat measurements across oceans, including
-remote regions, on scales not otherwise accessible to the scientific community and society at large."",United States
+VOS-SRoCS,,""Science RoCS envisions a future where scientific data collection on commercial ships is the new industry standard, providing regular and repeat measurements across oceans, including remote regions, on scales not otherwise accessible to the scientific community and society at large."",United States
 VOS-TH,VOS-TH,"Thai VOS program",Thailand
 VOS-TMP,VOS-TMP,"Temporary VOS program, for test purposes and unknown stations",Unknown
 VOS-US,VOS-US,"The United States VOS Program services about one quarter of the world's VOS fleet, providing ships' crews with weather observer training, handbooks and forms, observation encoding software, barometer calibration, the Mariners Weather Log, and weather observing tools. Located in the major ports around the country, Port Meteorological Officers are the VOS Program's field representatives and primary points of contact for ships.",United States
