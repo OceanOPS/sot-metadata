@@ -1,0 +1,8 @@
+"NAME","NAME_SHORT","DESCRIPTION"
+SOOP-CPR,SOOP-CPR,
+SOOP-pCO2,SOOP-pCO2,
+SOOP-TSG,SOOP-TSG,
+SOOP-XBT,SOOP-XBT,
+VOS Independent,VOS-INDE,"Third party support ships that are not recruited by a national meteorological service but contribute to the VOS Scheme"
+VOS NMHS Cooperative,VOS-NMHS_CO,"Ships that are recruited by a national meteorological service but use own instruments, sensors and equipment"
+VOS NMHS Operated,VOS-NMHS_OP,"Ships that are recruited by a national meteorological service which also supplies the necessary observing instruments, sensors and equipment"
