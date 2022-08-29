@@ -1,0 +1,22 @@
+"NAME","DESCRIPTION"
+AIS,Automated Identification System (direct or through satellite)
+ARGOS,Argos system
+ARGOS3,Argos-3 Two Way communications 
+BEIDOU,
+CELLULAR,communication using terrestrial wireless networks (GSM, GPRS)
+FREEWAVE,FreeWave
+GLOBALSTAR,Globalstar communication system
+GMS,GMS (DCP). Data Collecting Platform of Geostationary Meteorological Satellites
+GOES,GOES satellites
+HF RADIO,HF Radio
+INMARSAT,Inmarsat
+INSAT,
+IRIDIUM,
+LRIT,
+METEOSAT,METEOSAT German/North European onshore system
+NONE,None - E.g.: Delayed Mode only (manually retrieved after cruise)
+ORBCOMM,Orbcomm communication system
+OTHER,Other data telecommunication system
+UNKNOWN,Unknown data telecommunication system
+VHF RADIO,VHF Radio
+VSAT,Vsat
