@@ -1,0 +1,31 @@
+"NAME","NAME_SHORT","DESCRIPTION"
+BUFR,BUFR,WMO BUFR template
+BUFR sequence 308010,BUFR seq. 308010,BUFR Trackob (TSG)
+BUFR sequence 308017,BUFR seq. 308017,BUFR offshore platforms
+BUFR sequence 308018,BUFR seq. 308018,BUFR basic ship AWS
+BUFR sequence 309052,BUFR seq. 309052,BUFR TEMP SHIP
+BUFR sequence 315004,BUFR seq. 315004,BUFR BATHY / XBT
+BUFR sequence 315007,BUFR seq. 315007,BUFR TESAC (CTD)
+BUFR version  315004,BUFR vers. 315004,SOOP BUFR
+BUFR version 308009,BUFR vers. 308009,VOS BUFR
+BUFR version 308014,BUFR vers. 308014,VOS BUFR
+BUFR version 309052,BUFR vers. 309052,ASAP BUFR
+BUFR version 315007,BUFR vers. 315007,SOOP BUFR
+BUFS,BUFS,Data format used for Météo-France AWS
+CSV,CSV,CSV
+EUHC,EUHC,
+FM13,FM13,ASCII SHIP format
+FM36 SHIPTEMP,FM36 SHIPTEMP,ASCI ASAP format
+FM62 TRACKOB,FM62 TRACKOB,ASCII SOOP format
+FM63 BATHY,FM63 BATHY,ASCII SOOP format
+NetCDF,NetCDF,
+OTHER,OT,
+Other ASCII format,Other ASCII format,Other ASCII format
+Other binary format,Other binary format,Other binary format
+S-AWS code,S-AWS,ASCII data format used for AMOS stations
+SEAS,SEAS,Binary data format for SEAS 
+TAC,TAC,Traditional Alphanumeric Code not leisted below
+Unknown,Unknown,Unknown
+#091,091,
+#100,100,Binary data format developped by E-Surfmar for AWS
+#101,101,Half compressed format developped by E-Surfmar for Turbowin
