@@ -1,5 +1,5 @@
 CODE;NAME;DESCRIPTION
-AIRTEMP;"""Air temperature (at specified distance from reference surface)""";""""""
+AIRTEMP;"Air temperature (at specified distance from reference surface)";""
 ATMPRESS;"""Atmospheric pressure""";""""""
 CDOM;"""Fluorescence (DOM)""";"""Flurometric coloured dissolved Organic matter concentration."""
 CNDC;"""Conductivity""";"""Conductivity measured by CTD or MicroCAT"""
