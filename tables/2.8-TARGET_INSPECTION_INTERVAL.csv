@@ -1,13 +1,11 @@
-"CODE","ISO"
-Every call to port,
-Irregular,
-1 hour,PT1H
-1 day,P1D
-1 week,P7D
-1 month,P1M
-2 months,P2M
-6 months,P6M
-12 months,P1Y
-18 months,P1Y6M
-24 months,P2Y
-180 months,P15Y
+CODE,ISO
+nmhs-port-call,
+irregular,
+hourly,PT1H
+daily,P1D
+weekly,P7D
+monthly,P1M
+bimonthly,P2M
+twice-yearly,P6M
+annually,P1Y
+biannually,P2Y
