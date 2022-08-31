@@ -1,8 +1,7 @@
-"CODE","NAME","DESCRIPTION"
-SOOP-CPR,SOOP-CPR,
-SOOP-pCO2,SOOP-pCO2,
-SOOP-TSG,SOOP-TSG,
-SOOP-XBT,SOOP-XBT,
-VOS-INDEPENDENT,VOS Independent,"Third party support ships that are not recruited by a national meteorological service but contribute to the VOS Scheme"
-VOS-NMHS_COOPERATIVE,VOS NMHS Cooperative,"Ships that are recruited by a national meteorological service but use own instruments, sensors and equipment"
-VOS-NMHS_OPERATED,VOS NMHS Operated,"Ships that are recruited by a national meteorological service which also supplies the necessary observing instruments, sensors and equipment"
+SOOP-CO2,SOOP_CO2,
+SOOP-CPR,SOOP_CPR,
+SOOP-TSG,SOOP_TSG,
+SOOP-XBT,SOOP_XBT,
+VOS Independent,VOS-INDEPENDENT,"Third party support ships that are not recruited by a national meteorological service but contribute to the VOS Scheme"
+VOS NMHS Cooperative,VOS-NMHS_COOPERATIVE,"Ships that are recruited by a national meteorological service but use own instruments, sensors and equipment"
+VOS NMHS Operated,VOS-NMHS_OPERATED,"Ships that are recruited by a national meteorological service which also supplies the necessary observing instruments, sensors and equipment"
