@@ -1,11 +1,19 @@
 CODE,ISO
 nmhs-port-call,
 irregular,
-hourly,PT1H
 daily,P1D
-weekly,P7D
+hourly,PT1H
 monthly,P1M
-bimonthly,P2M
-twice-yearly,P6M
+weekly,P7D
 annually,P1Y
+sesquiennially,P1Y6M
+quindecennially,P15Y
+bimonthly,P2M
+fortnightly,P14D
 biannually,P2Y
+trimonthly,P3M
+triennially ,P3Y
+quadrennially,P4Y
+twice-yearly,P6M
+quinquennially,P5Y
+sexennially ,P6Y
