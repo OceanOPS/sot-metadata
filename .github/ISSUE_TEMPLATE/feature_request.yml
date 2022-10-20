@@ -8,29 +8,6 @@ body:
       value: |
         This feature request will be analysed, put into the correct project/repository and processed by our team. 
         Please be as much accurate as possible to optimise our response time.
-  - type: dropdown
-    id: context
-    attributes:
-      label: Context/theme
-      description: To which context/theme this feature applies?
-      multiple: true
-      options:
-        - Integrated (OceanOPS) 
-        - Argo 
-        - DBCP 
-        - SOT 
-        - GO-SHIP 
-        - OceanSITES 
-        - GLOSS 
-        - OceanGliders 
-        - Other (please specify)
-    validations:
-      required: true
-  - type: input
-    id: context-other
-    attributes:
-      label: Other context (if applicable)
-      description: If 'Other' selected above, please specify it here.
   - type: textarea
     id: description
     attributes:
