@@ -34,7 +34,7 @@ DIS - Semi automatic 20ft container launcher,,ASAP,,"""""",,
 DMAWDS,,VOS,MANUAL,"""National Oceanic and Atmospheric Administation""",,
 Devil,,SOOP,,"""Turo Technology Pty. Ltd.""",Turo,4.03.00;4.04.00;4.06.00;4.07.01;4.08.00;5.01.00;5.01.05;5.02.00;5.02.01;5.02.03;5.02.04;5.02.05;5.03.00;6.00.01;6.00.02;6.01.00;6.02.00;6.02.01;6.02.02;6.02.03;6.04.00;6.04.04;6.04.05;6.04.06;6.05.00
 Dredge Probes,,OT,,"""""",,
-EUCAWS/NEPTUNE,0.4.0;0.4.1;0.4.2;0.4.3;0.4.4,VOS,AUTO,"""STERELA""",Turbowin+,2.0;2.1;2.2;2.3;2.4;2.5;2.6;2.7;3.0;3.1;3.2;3.3;4.0;4.1
+EUCAWS/NEPTUNE,0.4.0;0.4.1;0.4.2;0.4.3;0.4.4,VOS,AUTO,"""STERELA""",Turbowin+,2.0;2.1;2.2;2.3;2.4;2.5;2.6;2.7;3.0;3.1;3.2;3.3;4.0;4.1;4.2;4.3;4.4
 FUGRO SYSTEM,,VOS,AUTO,"""""",,
 FYF AUTO OBS,2.1,OT,,"""HONEYWELL""",,
 GENERIC AUTO,,VOS,AUTO,"""""",,
@@ -85,8 +85,7 @@ Set Gillnet/Fyke Net Probes,,OT,,"""""",,
 TECHSAS,,VOS,AUTO,"""""",,
 TURBOWEB,303,VOS,MANUAL,"""Royal Netherlands Meteorological Institute""",,
 TURBOWIN,2.1;2.12;2.2;2.4;2.5;2.7;3.00;3.1;3.2;3.3;3.5;3.6;4.0;4.1;4.2;4.50;4.6;5.0;5.10;5.2;5.5;5.6,VOS,MANUAL,"""Royal Netherlands Meteorological Institute""",,
-TURBOWIN+ AUTO,2.2;2.3;2.4;2.5;3.1;3.2;3.3;4.0;4.1;4.2,VOS,AUTO,"""Royal Netherlands Meteorological Institute""",,
-TURBOWIN+ MANUAL,2.00;2.1;2.2;2.4;2.6;2.7;3.00;3.1;3.2;3.3;4.0;4.1;4.2,VOS,MANUAL,"""Royal Netherlands Meteorological Institute""",,
+TURBOWIN+ AUTO,2.2;2.3;2.4;2.5;3.1;3.2;3.3;4.0;4.1;4.2;4.3;4.4,VOS,AUTO,"""Royal Netherlands Meteorological Institute""",,
+TURBOWIN+ MANUAL,2.00;2.1;2.2;2.4;2.6;2.7;3.00;3.1;3.2;3.3;4.0;4.1;4.2;4.3;4.4,VOS,MANUAL,"""Royal Netherlands Meteorological Institute""",,
 Traps/Pots Probes,,OT,,"""""",,
 Trolling Probes,,OT,,"""""",,
-
