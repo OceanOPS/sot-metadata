@@ -67,7 +67,7 @@ MK21 ISA,,SOOP,,"""SIPPICAN""",,
 MK21 USB DAQ,,SOOP,,"""SIPPICAN""",,
 MSTARSHIP,3.0,VOS,AUTO,"""METEOROLOGICAL SERVICE OF NEW ZEALAND LTD""",,
 MetOcean Deck Drifter,,VOS,AUTO,"""METOCEAN Data Systems""",,
-Mini-Eucaws/WSM200,1.0.2;1.0.5,VOS,AUTO,"""STERELA""",Turbowin+,2;2.1;2.2;2.3;2.4;2.5;2.6;2.7;3;3.1;3.2;3.3;4;4.1;4.2;4.3;4.4
+Mini-Eucaws/WSM200,1.0.2;1.0.5,VOS,AUTO,"""STERELA""",Turbowin+,2.0;2.1;2.2;2.3;2.4;2.5;2.6;2.7;3.0;3.1;3.2;3.3;4.0;4.1;4.2;4.3;4.4
 NIMOS,,OT,,"""ICON SOFTWARE""",,
 NOAA_AOML_Autolauncher,,SOOP,,"""""",,
 OBSJMA,1.01;2.00;3.00,VOS,MANUAL,"""Japan Meteorological Agency""",,
