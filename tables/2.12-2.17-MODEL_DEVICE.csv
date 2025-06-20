@@ -1,4 +1,4 @@
-MODEL_MAIN_DEVICE CODE,VERSION_NUMBER_MAIN_DEVICE,NETWORK,AUTO or MANUAL,MANUFACTURER,ANCILLARY_DEVICE_MODEL CODE,ANCILLARY_DEVICE_VERSION
+"MODEL_MAIN_DEVICE CODE","VERSION_NUMBER_MAIN_DEVICE","NETWORK *INFO*","AUTO or MANUAL *INFO*","MANUFACTURER *INFO*","string_agg","string_agg-2"
 "0 - XBT Launcher",,"SOOP",,,,
 "100 - MFSTEP Autolauncher",,"SOOP",,,,
 "1 - LM-2A Deck-mounted",,"SOOP",,,,
@@ -95,6 +95,7 @@ MODEL_MAIN_DEVICE CODE,VERSION_NUMBER_MAIN_DEVICE,NETWORK,AUTO or MANUAL,MANUFAC
 "Sippican MK21 Ethernet DAQ",,"SOOP",,"""SIPPICAN""","AOML XBT V6 Autolauncher;AOML XBT V8.0 Autolauncher;AOML XBT V8.1 Autolauncher;AXIS_Autolauncher;LM-2A Deck-mounted;LM-3A Hand-Held;LM-4A Thru-Hull;MFSTEP Autolauncher;SIO XBT Autolauncher",
 "Sippican MK21 ISA",,"SOOP",,"""SIPPICAN""","AOML XBT V6 Autolauncher;AOML XBT V8.0 Autolauncher;AOML XBT V8.1 Autolauncher;AXIS_Autolauncher;LM-2A Deck-mounted;LM-3A Hand-Held;LM-4A Thru-Hull;MFSTEP Autolauncher;SIO XBT Autolauncher",
 "Sippican MK21 USB DAQ",,"SOOP",,"""SIPPICAN""","AOML XBT V6 Autolauncher;AOML XBT V8.0 Autolauncher;AOML XBT V8.1 Autolauncher;AXIS_Autolauncher;LM-2A Deck-mounted;LM-3A Hand-Held;LM-4A Thru-Hull;MFSTEP Autolauncher;NOAA_AOML_Autlolauncher;SIO XBT Autolauncher",
+"Smartboatia Hub",,"VOS","AUTO",,,
 "SURROUNDING NETS",,"OT",,,,
 "TECHSAS",,"VOS","AUTO",,,
 "Towed Dredges",,"OT",,,,
