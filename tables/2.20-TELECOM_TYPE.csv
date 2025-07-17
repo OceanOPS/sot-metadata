@@ -17,6 +17,7 @@ METEOSAT,METEOSAT German/North European onshore system
 NONE,None - E.g.: Delayed Mode only (manually retrieved after cruise)
 ORBCOMM,Orbcomm communication system
 OTHER,Other data telecommunication system
+STARLINK,STARLINK
 UNKNOWN,Unknown data telecommunication system
 VHF RADIO,VHF Radio
 VSAT,Vsat
